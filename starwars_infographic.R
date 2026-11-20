@@ -1,3 +1,8 @@
+# Use this command in the terminal to generate "starwars.png":
+# Rscript starwars_infographic.R starwars.png
+
+
+
 # starwars_infographic
 
 # Code written by Claude Opus 5.5.
